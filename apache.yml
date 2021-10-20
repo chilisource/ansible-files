@@ -6,4 +6,4 @@
   - name: latest Apache version installed
     apt:
       name: apache2
-      state: latest
+      state: absent
